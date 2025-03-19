@@ -8,8 +8,7 @@ I designed and implemented a **Sales Data Pipeline** for an e-commerce company. 
 
 Below is the high-level overview of the sales data pipeline:
 
-![Sales Pipeline Diagram](sales_pipeline.png)
-
+![Sales Pipeline Diagram](images/sales_pipeline.png)
 ---
 
 ## **Project Overview**
