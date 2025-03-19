@@ -8,7 +8,12 @@ I designed and implemented a **Sales Data Pipeline** for an e-commerce company. 
 
 Below is the high-level overview of the sales data pipeline:
 
-![Sales Pipeline Diagram](images/sales_pipeline.png)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdulhayyabdu/Sales-Dashboard/blob/main/Sales_pipeline.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdulhayyabdu/Sales-Dashboard/blob/main/Sales_pipeline.png?raw=true">
+ <img alt="Sales Pipeline Diagram" src="https://github.com/abdulhayyabdu/Sales-Dashboard/blob/main/Sales_pipeline.png?raw=true">
+</picture>
+
 ---
 
 ## **Project Overview**
@@ -39,4 +44,4 @@ Below is the high-level overview of the sales data pipeline:
 ## **How to Use This Repository**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Sales-Dashboard.git
+   git clone https://github.com/abdulhayyabdu/Sales-Dashboard.git
