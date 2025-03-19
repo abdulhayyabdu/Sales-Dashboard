@@ -31,6 +31,9 @@ Below is the high-level overview of the sales data pipeline:
 4. **Data Analysis**: Perform SQL queries for insights (e.g., total sales by region, top products).
 5. **Data Visualization**: Create an interactive Power BI dashboard.
 
+## Dashboard Preview
+![Dashboard Preview](https://github.com/abdulhayyabdu/Sales-Dashboard/blob/main/dashboard.png?raw=true)
+
 ---
 
 ## **Tools Used**
