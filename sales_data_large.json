@@ -1,0 +1,1302 @@
+[
+    {
+        "transaction_id": "T001",
+        "customer_id": "C001",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 8,
+        "date": "2023-12-11T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T002",
+        "customer_id": "C002",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 1,
+        "date": "2023-06-24T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T003",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 4,
+        "date": "2023-06-01T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T004",
+        "customer_id": "C004",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 1,
+        "date": "2023-01-05T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T005",
+        "customer_id": "C005",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 1,
+        "date": "2023-06-29T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T006",
+        "customer_id": "C006",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 1,
+        "date": "2023-12-04T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T007",
+        "customer_id": "C007",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 3,
+        "date": "2023-09-15T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T008",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 6,
+        "date": "2023-10-02T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T009",
+        "customer_id": "C009",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 3,
+        "date": "2023-03-21T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T010",
+        "customer_id": "C010",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 5,
+        "date": "2023-05-09T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T011",
+        "customer_id": "C011",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 3,
+        "date": "2023-01-13T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T012",
+        "customer_id": "C012",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 6,
+        "date": "2023-12-17T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T013",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 6,
+        "date": "2023-04-13T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T014",
+        "customer_id": "C014",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 6,
+        "date": "2023-09-28T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T015",
+        "customer_id": "C015",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 6,
+        "date": "2023-12-21T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T016",
+        "customer_id": "C016",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 5,
+        "date": "2023-03-11T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T017",
+        "customer_id": "C017",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 4,
+        "date": "2023-10-20T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T018",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 10,
+        "date": "2023-07-26T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T019",
+        "customer_id": "C019",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 4,
+        "date": "2023-06-30T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T020",
+        "customer_id": "C020",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 2,
+        "date": "2023-09-26T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T021",
+        "customer_id": "C021",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 5,
+        "date": "2023-03-30T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T022",
+        "customer_id": "C022",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 7,
+        "date": "2023-01-16T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T023",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 9,
+        "date": "2023-03-02T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T024",
+        "customer_id": "C024",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 9,
+        "date": "2023-01-12T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T025",
+        "customer_id": "C025",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 6,
+        "date": "2023-11-30T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T026",
+        "customer_id": "C026",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 9,
+        "date": "2023-09-20T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T027",
+        "customer_id": "C027",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 1,
+        "date": "2023-09-18T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T028",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 9,
+        "date": "2023-03-06T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T029",
+        "customer_id": "C029",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 6,
+        "date": "2023-09-03T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T030",
+        "customer_id": "C030",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 10,
+        "date": "2023-06-25T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T031",
+        "customer_id": "C031",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 10,
+        "date": "2023-06-07T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T032",
+        "customer_id": "C032",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 5,
+        "date": "2023-10-31T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T033",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 4,
+        "date": "2023-10-25T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T034",
+        "customer_id": "C034",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 9,
+        "date": "2023-10-28T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T035",
+        "customer_id": "C035",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 5,
+        "date": "2023-07-05T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T036",
+        "customer_id": "C036",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 5,
+        "date": "2023-02-23T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T037",
+        "customer_id": "C037",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 6,
+        "date": "2023-04-14T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T038",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 7,
+        "date": "2023-06-14T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T039",
+        "customer_id": "C039",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 1,
+        "date": "2023-06-25T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T040",
+        "customer_id": "C040",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 3,
+        "date": "2023-08-01T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T041",
+        "customer_id": "C041",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 7,
+        "date": "2023-11-29T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T042",
+        "customer_id": "C042",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 2,
+        "date": "2023-10-11T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T043",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 4,
+        "date": "2023-05-28T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T044",
+        "customer_id": "C044",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 9,
+        "date": "2023-08-03T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T045",
+        "customer_id": "C045",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 9,
+        "date": "2023-02-23T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T046",
+        "customer_id": "C046",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 9,
+        "date": "2023-06-09T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T047",
+        "customer_id": "C047",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 7,
+        "date": "2023-11-05T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T048",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 2,
+        "date": "2023-03-30T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T049",
+        "customer_id": "C049",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 8,
+        "date": "2023-01-27T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T050",
+        "customer_id": "C050",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 9,
+        "date": "2023-02-19T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T051",
+        "customer_id": "C051",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 2,
+        "date": "2023-08-08T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T052",
+        "customer_id": "C052",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 3,
+        "date": "2023-09-26T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T053",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 4,
+        "date": "2023-12-12T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T054",
+        "customer_id": "C054",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 5,
+        "date": "2023-08-25T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T055",
+        "customer_id": "C055",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 3,
+        "date": "2023-01-16T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T056",
+        "customer_id": "C056",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 6,
+        "date": "2023-12-02T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T057",
+        "customer_id": "C057",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 5,
+        "date": "2023-11-12T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T058",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 1,
+        "date": "2023-08-30T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T059",
+        "customer_id": "C059",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 9,
+        "date": "2023-05-20T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T060",
+        "customer_id": "C060",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 6,
+        "date": "2023-01-24T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T061",
+        "customer_id": "C061",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 9,
+        "date": "2023-03-08T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T062",
+        "customer_id": "C062",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 7,
+        "date": "2023-02-01T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T063",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 3,
+        "date": "2023-01-06T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T064",
+        "customer_id": "C064",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 1,
+        "date": "2023-12-29T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T065",
+        "customer_id": "C065",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 9,
+        "date": "2023-02-11T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T066",
+        "customer_id": "C066",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 2,
+        "date": "2023-10-05T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T067",
+        "customer_id": "C067",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 7,
+        "date": "2023-11-10T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T068",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 6,
+        "date": "2023-10-03T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T069",
+        "customer_id": "C069",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 10,
+        "date": "2023-03-15T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T070",
+        "customer_id": "C070",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 1,
+        "date": "2023-01-11T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T071",
+        "customer_id": "C071",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 3,
+        "date": "2023-04-09T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T072",
+        "customer_id": "C072",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 9,
+        "date": "2023-06-15T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T073",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 5,
+        "date": "2023-09-09T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T074",
+        "customer_id": "C074",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 9,
+        "date": "2023-11-22T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T075",
+        "customer_id": "C075",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 5,
+        "date": "2023-06-08T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T076",
+        "customer_id": "C076",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 5,
+        "date": "2023-06-30T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T077",
+        "customer_id": "C077",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 8,
+        "date": "2023-10-07T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T078",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 1,
+        "date": "2023-02-11T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T079",
+        "customer_id": "C079",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 4,
+        "date": "2023-05-14T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T080",
+        "customer_id": "C080",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 3,
+        "date": "2023-03-09T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T081",
+        "customer_id": "C081",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 5,
+        "date": "2023-04-05T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T082",
+        "customer_id": "C082",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 3,
+        "date": "2023-01-02T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T083",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 1,
+        "date": "2023-09-27T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T084",
+        "customer_id": "C084",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 10,
+        "date": "2023-10-10T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T085",
+        "customer_id": "C085",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 1,
+        "date": "2023-06-16T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T086",
+        "customer_id": "C086",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 3,
+        "date": "2023-06-13T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T087",
+        "customer_id": "C087",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 10,
+        "date": "2023-09-08T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T088",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 7,
+        "date": "2023-11-06T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T089",
+        "customer_id": "C089",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 10,
+        "date": "2023-02-07T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T090",
+        "customer_id": "C090",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 2,
+        "date": "2023-07-26T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T091",
+        "customer_id": "C091",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 7,
+        "date": "2023-02-08T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T092",
+        "customer_id": "C092",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 1,
+        "date": "2023-02-10T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T093",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 1,
+        "date": "2023-07-26T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T094",
+        "customer_id": "C094",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 6,
+        "date": "2023-02-17T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T095",
+        "customer_id": "C095",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 5,
+        "date": "2023-02-09T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T096",
+        "customer_id": "C096",
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 1,
+        "date": "2023-04-16T00:00:00Z",
+        "region": "North"
+    },
+    {
+        "transaction_id": "T097",
+        "customer_id": "C097",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 7,
+        "date": "2023-07-04T00:00:00Z",
+        "region": "South"
+    },
+    {
+        "transaction_id": "T098",
+        "customer_id": null,
+        "product": {
+            "id": "P01",
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 999.99
+        },
+        "quantity": 2,
+        "date": "2023-01-05T00:00:00Z",
+        "region": "East"
+    },
+    {
+        "transaction_id": "T099",
+        "customer_id": "C099",
+        "product": {
+            "id": "P03",
+            "name": "Monitor",
+            "category": "Electronics",
+            "price": 299.5
+        },
+        "quantity": 4,
+        "date": "2023-08-02T00:00:00Z",
+        "region": "West"
+    },
+    {
+        "transaction_id": "T100",
+        "customer_id": "C100",
+        "product": {
+            "id": "P02",
+            "name": "Mouse",
+            "category": "Accessories",
+            "price": 19.99
+        },
+        "quantity": 9,
+        "date": "2023-06-05T00:00:00Z",
+        "region": "North"
+    }
+]
